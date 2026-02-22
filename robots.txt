@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://redwoodcityplumbingco.com/sitemap.xml
